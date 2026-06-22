@@ -1,4 +1,4 @@
-package com.sprata.springmvc2.response;
+package com.sparta.springmvc2.response;
 
 
 import lombok.Getter;

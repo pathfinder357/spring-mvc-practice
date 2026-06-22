@@ -1,4 +1,4 @@
-package com.sprata.springmvc2;
+package com.sparta.springmvc2;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

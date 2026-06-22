@@ -1,4 +1,4 @@
-package com.sprata.springmvc2.controller;
+package com.sparta.springmvc2.controller;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.DeleteMapping;
